@@ -13,7 +13,7 @@
  *  Thanks to Seth Jansen @sjansen and Gilbert Chan @thegilbertchan for original contributions
  */
 metadata {
-    definition (name: "Netvox 2-Button Switch", namespace: "cbaum86", author: "Chris Baum") {
+    definition (name: "Netvox_2-Button_Switch", namespace: "cbaum86", author: "Chris Baum") {
         capability "Button"
         capability "Configuration"
                 
